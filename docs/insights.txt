@@ -1,0 +1,63 @@
+Netflix Content Analytics Project
+
+Analysis 1: Movies vs TV Shows
+
+Total Records: 8807
+
+Movies: 6131
+TV Shows: 2676
+
+Insights:
+1. Movies represent the majority of Netflix content.
+2. Approximately 70% of content consists of Movies.
+3. Approximately 30% of content consists of TV Shows.
+
+Analysis 2: Top Countries Producing Netflix Content
+
+United States: 2818
+India: 972
+United Kingdom: 419
+Japan: 245
+South Korea: 199
+
+Insights:
+1. The United States contributes the highest amount of content on Netflix.
+2. India is the second-largest content producer.
+3. The top two countries contribute significantly more content than the remaining countries.
+4. Netflix content is heavily concentrated in a few major production regions.
+
+Analysis 3: Content Release Trend
+
+2018 had the highest number of releases with 1147 titles.
+
+Insights:
+1. Netflix content production increased rapidly from 2014 to 2018.
+2. 2018 was the peak year for content releases.
+3. Content production remained high during 2019 and 2020.
+4. The platform experienced significant growth between 2015 and 2018.
+
+Analysis 4: Content Ratings
+
+Top Ratings:
+TV-MA = 3207
+TV-14 = 2160
+TV-PG = 863
+
+Insights:
+1. TV-MA is the most common content rating on Netflix.
+2. The platform primarily targets mature audiences.
+3. Teen and adult-oriented content dominates the catalog.
+4. Family-oriented content represents a smaller share of total titles.
+
+Analysis 5: Top Genres
+
+Top Genres:
+1. Dramas, International Movies
+2. Documentaries
+3. Stand-Up Comedy
+
+Insights:
+1. Drama is one of the most dominant content categories.
+2. International content plays a major role in Netflix's library.
+3. Documentaries are among the most common content types.
+4. Netflix offers a diverse mix of entertainment genres.
